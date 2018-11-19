@@ -1,0 +1,68 @@
+﻿  City.cpp
+c:\users\usager\desktop\proceduralcityopengl\lab1\gaussian.h(35): warning C4244: '=' : conversion de '_Ty' en 'float', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\city.cpp(43): warning C4244: 'argument' : conversion de 'float' en 'const unsigned int', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\city.cpp(45): warning C4244: 'argument' : conversion de 'float' en 'const unsigned int', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\city.cpp(83): warning C4305: '+=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\city.cpp(84): warning C4305: '+=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\city.cpp(85): warning C4305: '+=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\city.cpp(86): warning C4305: '+=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+  Parcel.cpp
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(36): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(70): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(188): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(257): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(260): warning C4305: '-=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(261): warning C4305: '-=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(262): warning C4305: '-=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\parcel.cpp(263): warning C4305: '-=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+  main.cpp
+c:\users\usager\desktop\proceduralcityopengl\lab1\gaussian.h(35): warning C4244: '=' : conversion de '_Ty' en 'float', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(237): warning C4244: '=' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(238): warning C4244: '=' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(244): warning C4244: '=' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(245): warning C4244: '=' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(251): warning C4244: '=' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(252): warning C4244: '=' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\usager\desktop\proceduralcityopengl\lab1\main.cpp(254): warning C4305: 'initialisation' : troncation de 'double' à 'GLfloat'
+  Génération de code en cours...
+  Lab1.vcxproj -> C:\Users\usager\Desktop\ProceduralCityOpenGl\Debug\Lab2.exe
